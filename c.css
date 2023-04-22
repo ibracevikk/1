@@ -1,0 +1,52 @@
+
+.logo{
+    width: 50px;
+    margin-left: 600px;
+    margin-top: 200px;
+}
+
+.box1{
+    border-radius: 20px;
+    width: 500px;
+    background-color: darkgray;
+    text-align: center;
+    margin-left: 500px;
+}
+
+.input{
+    margin-top: 0px;
+}
+
+.text{
+    text-align: center;
+    margin-top: 2px;
+
+}
+
+.box2{
+    background-color: aqua; 
+    margin-left: 400px;
+    padding: 3px;
+    float: left;
+    height: 145px;
+    
+}
+
+.box3{
+    text-align: center;
+    background-color: aqua;
+    margin-left: 5px;
+    padding: 3px; 
+    float: left;
+   width: 250px;
+   height: 145px;
+}
+.box4{
+    background-color: aqua;
+    text-align: center;
+    margin-left: 5px;
+    width: 250px;
+    float: left;
+    height: 150px;
+}
+
